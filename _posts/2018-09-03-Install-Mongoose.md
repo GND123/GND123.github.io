@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mongoose 설치 방법
+editor: jiwoo
 ---
 
 ### MAC 기준
