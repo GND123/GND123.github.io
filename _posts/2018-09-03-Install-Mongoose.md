@@ -14,3 +14,8 @@ node -v
 ~~~
 npm install mongoose
 ~~~
+
+4. express 설치
+~~~
+npm install express
+~~~
