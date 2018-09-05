@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 깃허브 업로드 하는 방법
+editor: jiwoo
 ---
 
 ***
