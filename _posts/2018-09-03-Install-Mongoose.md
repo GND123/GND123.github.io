@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Mongoose 설치 방법
-tags: [Mongoose, node.js, node]
-editor: Foot
 ---
 
 ### MAC 기준
