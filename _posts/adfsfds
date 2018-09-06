@@ -1,0 +1,36 @@
+---
+layout: post
+title: 20180906 FOOT 자료
+---
+
+### 쓰는 툴
+
+* MongoDB + Node.js + express framework
+* Mongoose
+***
+
+### 쓰는 이유
+
+* MongoDB + Node.js 쓰는 이유
+  * MongoDB 가 javascript로 이루어져 있음
+  * Node.js는 원래 서버쪽은 php도 쓰고 이것저것 언어도 배워야할게 많은데 javascript언어 하나로 다 커버침
+  * 결론 : db와 server 모두 javascript로 모두 커버가능해서 조합이 괜찮음 ㅎㅎ
+
+
+* Mongoose와 MongoDB + Node.js 의 차이점
+  * Mongoose는 **스키마**를 무조건 이용해야함
+  * 원래 noSQL은 스키마가 없고 막 집어넣을 수 있는 것이 특징이지만, Mongoose는 관리용이를 위해 그걸 제한함
+  * MongoDB-native를 쓰면 각종 에러에 부딫칠 수 있다
+
+* express framework?
+  * Node.js는 서버를 잘 다룰 수 있게 하는 건데 router, server 등등 이런 거 개념 다 알면 너무 어려움..
+  * express framework를 깔면 초기 설정은 다 되있음
+  * 물론 이것도 딱히 쉬운건 아님 아직 설정 등등 해야할 게 많음
+
+***
+
+### 현재 진행 상황
+
+* 열심히 아래 블로그 글 읽고 있음
+<https://www.zerocho.com/category/NodeJS/post/57774a8eacbd2e9803de0195/>
+*
