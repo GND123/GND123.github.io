@@ -4,6 +4,7 @@ title: 깃허브 업로드 하는 방법
 editor: jiwoo
 ---
 
+## git 명령어를 이용하는 방법
 ***
 1.  깃 저장소를 초기화한다. 이미 연결하려고 하는 깃repo가 있다면 두 번째 명령어를 실행한다.
 ~~~
@@ -30,3 +31,7 @@ git remote add origin https://github.com/GND123/gnd123.github.io.git
 ~~~
 git push origin master
 ~~~
+
+## eclipse를 이용하는 방법
+***
+1. eclipse를 다운로드 한다.
