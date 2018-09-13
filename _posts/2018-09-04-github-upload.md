@@ -35,3 +35,17 @@ git push origin master
 ## eclipse를 이용하는 방법
 ***
 1. eclipse를 다운로드 한다.
+
+2. window - perspective - open Perspective - other .. - Git 추가
+
+3. 거기서 repo를 잘 추가하도록 한다
+
+4. synchronize -- 비교하기 용이
+
+5. 이게 사진이 있어야 되는데 사진 넣는 법을 몰라서 업데이트 할게요
+
+6. git을 gui로 이용할 수 있다!
+
+## android studio
+***
+1. android studio를 다운로드 한다.
