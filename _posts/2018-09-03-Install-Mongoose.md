@@ -13,14 +13,14 @@ editor: jiwoo
 node -v
 ~~~
 
-3. mongoose 설치 터미널에 아래 명령어 입력
+3. mongoose 설치 터미널에 아래 명령어 입력 (인터넷으로 따로 깔아야 되는지는 기억 안남)
 ~~~
 npm install mongoose
 ~~~
 
 4. express 설치
 ~~~
-npm install express
+npm install express-generator
 ~~~
 
 ### 출처
