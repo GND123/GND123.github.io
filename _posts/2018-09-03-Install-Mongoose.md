@@ -23,6 +23,11 @@ npm install mongoose
 npm install express-generator
 ~~~
 
+5. xmlhttprequest 설치
+~~~
+npm install xmlhttprequest
+~~~
+
 ### 출처
 ***
 http://devdoc.tistory.com/5
