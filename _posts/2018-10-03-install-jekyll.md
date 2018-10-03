@@ -20,12 +20,6 @@ editor: jiwoo
 
 3. 그 이후는 아래 링크 참고
 
-
-
-
-
-
-
 ### 출처
 ***
 * <http://blog.hyeyoonjung.com/2017/05/04/how-to-start-jekyll/>
