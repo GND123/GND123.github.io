@@ -3,8 +3,8 @@
 title:               GND123
 tagline:             'A GND Blog'
 description:         GND blog
-url:                 https://localhost:4000/
-#url:                 https://gnd123.github.io/
+#url:                 https://localhost:4000/
+url:                 https://gnd123.github.io/
 baseurl:             ''
 paginate:            5
 plugins: [jekyll-paginate]
@@ -16,4 +16,10 @@ author:
   email:             wldn0202@gmail.com
 
 # Custom vars
-version:             1.0.1
+version:             1.0.2
+
+github:
+  repo: "https://github.com/gnd123/gnd123.github.io/"
+
+category_dir: category/
+tag_dir: tag/

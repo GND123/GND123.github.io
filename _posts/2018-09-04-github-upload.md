@@ -2,6 +2,9 @@
 layout: post
 title: 깃허브 업로드 하는 방법
 editor: jiwoo
+comments: true
+category: tech
+tag: tech, install
 ---
 
 ## git 명령어를 이용하는 방법

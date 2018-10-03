@@ -2,6 +2,9 @@
 layout: post
 title: Mongoose 설치 방법
 editor: jiwoo
+comments: true
+category: tech
+tag: tech, install
 ---
 
 ### MAC 기준

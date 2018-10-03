@@ -2,6 +2,9 @@
 layout: post
 title: install jekyll
 editor: jiwoo
+comments: true
+category: tech
+tag: tech, install
 ---
 
 ### MAC 기준
